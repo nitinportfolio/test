@@ -1,4 +1,4 @@
-baseURL: "nitinaiportfolio.github.io"
+baseURL: "https://nitinportfolio.github.io/test/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
