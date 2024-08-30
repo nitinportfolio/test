@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nitinportfolio.github.io/test/categories/</loc>
+    <loc>http://localhost:52815/test/categories/</loc>
   </url><url>
-    <loc>https://nitinportfolio.github.io/test/</loc>
+    <loc>http://localhost:52815/test/</loc>
   </url><url>
-    <loc>https://nitinportfolio.github.io/test/tags/</loc>
+    <loc>http://localhost:52815/test/tags/</loc>
   </url>
 </urlset>
